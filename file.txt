@@ -1,1 +1,0 @@
-{"ID":"152","CurrentFloor":0,"CurrentDirection":1,"State":"DoorOpen","LocalOrders":["","","",""],"ExternalOrders":[["",""],["",""],["",""],["",""]],"NewOrder":{"Command":"none","Floor":0,"Button":0,"ElevID":"152"},"DeleteOrder":{"Command":"delete","Floor":0,"Button":0,"ElevID":""},"DeleteAddOrder":{"Command":"none","Floor":0,"Button":0,"ElevID":""}}
